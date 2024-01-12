@@ -1,0 +1,27 @@
+Project new clips
+Practice
+open powershell from the location where to create the new angular project
+add command: ng new clips
+
+installing tailwinfd css library: npm install -D tailwindcss@latest
+ next run this commad: npx tailwind init
+ if initilizes successfully it wil show message in terminal: (Created Tailwind CSS config file: tailwind.config.js)
+ adding other stuf like:
+ cdn link for material icon, etc
+ add tailwind css classes
+ add assets e.g. videos from template to our src/assets
+ ---------------------------
+ adding functionality our project:
+ 
+ ng generate module user
+ ng g component user
+ ng g component user/auth-modal
+ ng g component nav
+
+ ng g service services/modal
+ ng g c shared/tabscontainer
+ 
+ 
+ 
+ 
+ 

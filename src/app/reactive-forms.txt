@@ -1,0 +1,4 @@
+Reactive Form- Harder to learn, more flexible for complex data
+Template Form- Easier to learn, less flexible
+-- check installed angular version and then install appropriate ngx-msk version
+    npm install --save ngx-mask@13.2.2
